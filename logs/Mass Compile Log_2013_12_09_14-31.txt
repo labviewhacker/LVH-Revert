@@ -1,0 +1,6 @@
+#### Starting Mass Compile: Mon, Dec 09, 2013 2:31:25 PM
+  Directory: "C:\github\labviewhacker\LVH-Revert"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+#### Finished Mass Compile: Mon, Dec 09, 2013 2:31:26 PM

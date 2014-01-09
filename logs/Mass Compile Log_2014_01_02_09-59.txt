@@ -1,0 +1,12 @@
+#### Starting Mass Compile: Thu, Jan 02, 2014 10:00:27 AM
+  Directory: "C:\github\labviewhacker\LVH-Revert"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+  ### Bad VI:    "LVH-Revert.lvlib:Archive Backsave.vi"	Path="C:\github\labviewhacker\LVH-Revert\LabVIEW\vi.lib\LabVIEW Hacker\Revert\Private\Archive Backsave.vi"
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\LabVIEW Hacker\Revert\SQS POC.vi
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\LabVIEW Hacker\Revert\Upload to S3.vi
+#### Finished Mass Compile: Thu, Jan 02, 2014 10:00:32 AM
