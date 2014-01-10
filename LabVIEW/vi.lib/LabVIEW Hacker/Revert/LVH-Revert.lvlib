@@ -9,28 +9,28 @@
 
 </Property>
 	<Item Name="Type Defs" Type="Folder">
-		<Item Name="LabVIEW Files.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Type Defs/LabVIEW Files.ctl"/>
-		<Item Name="Paths.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Type Defs/Paths.ctl"/>
-		<Item Name="Revert Config.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Type Defs/Revert Config.ctl"/>
-		<Item Name="Revert Worker State.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Type Defs/Revert Worker State.ctl"/>
-		<Item Name="Revert Worker Config.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Revert Worker Config.ctl"/>
+		<Item Name="LabVIEW Files.ctl" Type="VI" URL="../Type Defs/LabVIEW Files.ctl"/>
+		<Item Name="Paths.ctl" Type="VI" URL="../Type Defs/Paths.ctl"/>
+		<Item Name="Revert Config.ctl" Type="VI" URL="../Type Defs/Revert Config.ctl"/>
+		<Item Name="Revert Worker State.ctl" Type="VI" URL="../Type Defs/Revert Worker State.ctl"/>
+		<Item Name="Revert Worker Config.ctl" Type="VI" URL="../Private/Revert Worker Config.ctl"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
-		<Item Name="Clean Directories.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Type Defs/Clean Directories.vi"/>
-		<Item Name="Get LabVIEW Files.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Get LabVIEW Files.vi"/>
-		<Item Name="Unzip Files.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Type Defs/Unzip Files.vi"/>
-		<Item Name="Backsave Projects.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Backsave Projects.vi"/>
-		<Item Name="Check For Project.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Check For Project.vi"/>
-		<Item Name="Prep Backsave Directory.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Prep Backsave Directory.vi"/>
-		<Item Name="Backsave Individual Items.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Backsave Individual Items.vi"/>
-		<Item Name="Move Non LabVIEW Files.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Move Non LabVIEW Files.vi"/>
-		<Item Name="Archive Output.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Archive Output.vi"/>
-		<Item Name="Initialize.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Initialize.vi"/>
-		<Item Name="Worker to Revert Config.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Worker to Revert Config.vi"/>
-		<Item Name="Job Message To Data.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Private/Job Message To Data.vi"/>
+		<Item Name="Clean Directories.vi" Type="VI" URL="../Type Defs/Clean Directories.vi"/>
+		<Item Name="Get LabVIEW Files.vi" Type="VI" URL="../Private/Get LabVIEW Files.vi"/>
+		<Item Name="Unzip Files.vi" Type="VI" URL="../Type Defs/Unzip Files.vi"/>
+		<Item Name="Backsave Projects.vi" Type="VI" URL="../Private/Backsave Projects.vi"/>
+		<Item Name="Check For Project.vi" Type="VI" URL="../Private/Check For Project.vi"/>
+		<Item Name="Prep Backsave Directory.vi" Type="VI" URL="../Private/Prep Backsave Directory.vi"/>
+		<Item Name="Backsave Individual Items.vi" Type="VI" URL="../Private/Backsave Individual Items.vi"/>
+		<Item Name="Move Non LabVIEW Files.vi" Type="VI" URL="../Private/Move Non LabVIEW Files.vi"/>
+		<Item Name="Archive Output.vi" Type="VI" URL="../Private/Archive Output.vi"/>
+		<Item Name="Initialize.vi" Type="VI" URL="../Private/Initialize.vi"/>
+		<Item Name="Worker to Revert Config.vi" Type="VI" URL="../Private/Worker to Revert Config.vi"/>
+		<Item Name="Job Message To Data.vi" Type="VI" URL="../Private/Job Message To Data.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
-		<Item Name="Configure Revert Worker.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Public/Configure Revert Worker.vi"/>
+		<Item Name="Configure Revert Worker.vi" Type="VI" URL="../Public/Configure Revert Worker.vi"/>
 	</Item>
-	<Item Name="Revert Main.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/Revert Main.vi"/>
+	<Item Name="Revert Main.vi" Type="VI" URL="../Revert Main.vi"/>
 </Library>
