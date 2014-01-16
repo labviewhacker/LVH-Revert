@@ -10,15 +10,15 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="LVH-Revert.lvlib" Type="Library" URL="../LVH-Revert.lvlib"/>
+		<Item Name="LVH-Revert.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Revert/LVH-Revert.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Add File to Zip.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Add File to Zip.vi"/>
-				<Item Name="AWS_Core.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/LabVIEW 2012 AWS Toolkit/AWS Core Lib/VI Source/AWS_Core.lvlib"/>
-				<Item Name="AWS_SHA-1.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/LabVIEW 2012 AWS Toolkit/AWS Core Lib/VI Source/SHA-1/AWS_SHA-1.lvlib"/>
-				<Item Name="AWS_SQS.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/LabVIEW 2012 AWS Toolkit/SQS/VI Source/AWS_SQS.lvlib"/>
-				<Item Name="AWS_XML Parser.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/LabVIEW 2012 AWS Toolkit/AWS Core Lib/VI Source/XML Parser/AWS_XML Parser.lvlib"/>
+				<Item Name="AWS_Core.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/NI Amazon Web Services (AWS) Toolkit for LabVIEW/AWS Core Lib/VI Source/AWS_Core.lvlib"/>
+				<Item Name="AWS_SHA-1.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/NI Amazon Web Services (AWS) Toolkit for LabVIEW/AWS Core Lib/VI Source/SHA-1/AWS_SHA-1.lvlib"/>
+				<Item Name="AWS_SQS.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/NI Amazon Web Services (AWS) Toolkit for LabVIEW/SQS/VI Source/AWS_SQS.lvlib"/>
+				<Item Name="AWS_XML Parser.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/NI Amazon Web Services (AWS) Toolkit for LabVIEW/AWS Core Lib/VI Source/XML Parser/AWS_XML Parser.lvlib"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Close Zip File.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Close Zip File.vi"/>
